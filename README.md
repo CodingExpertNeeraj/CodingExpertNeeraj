@@ -1,4 +1,4 @@
-Hello and Namaste 👋 I am Neeraj Tiwari
+<h1> Hello and Namaste 👋 I am Neeraj Tiwari </h1>
 
 <!--
 **CodingExpertNeeraj/CodingExpertNeeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
